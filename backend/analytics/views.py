@@ -85,7 +85,7 @@ class YouTubeAnalysisView(APIView):
 
         # IMPORTANT: Replace with your actual YouTube Data API Key
         # For security, load this from an environment variable in a real application
-        YOUTUBE_API_KEY = 'AIzaSyBVfnWTnCpTlO5KdF33O657l212yaxnPxA' 
+        YOUTUBE_API_KEY = 'API-KEY' 
 
         try:
             youtube = build('youtube', 'v3', developerKey=YOUTUBE_API_KEY)
