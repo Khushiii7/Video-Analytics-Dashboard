@@ -11,7 +11,7 @@ A full-stack platform for analyzing videos with advanced insights, built using *
 - Integrated custom ML model to predict video revenue with **85% accuracy** based on watch time
 - Helps creators & businesses gain actionable monetization insights
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Backend**: Django (Python)
 - **Frontend/UI**: Streamlit
 - **Machine Learning**: Custom ML model for revenue prediction
