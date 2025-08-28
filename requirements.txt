@@ -1,0 +1,8 @@
+django
+djangorestframework
+channels
+streamlit
+requests
+ffmpeg-python
+google-api-python-client
+
